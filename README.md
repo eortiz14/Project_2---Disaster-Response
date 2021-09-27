@@ -30,3 +30,9 @@ The repository contains:
 * The models folder contains train_classifier.py, which builds and trains the model that will categorize messages
 * The app folder contains run.py which is used to deploy the flask app
 
+For deploy the flask app running make sure to be in the app directory use cd app in the terminal. Open a new terminal window and type in the command line: 'python run.py', then 
+open another Terminal Window and type env|grep WORK, the result of this command put on a new web browser window, type in the following: https://SPACEID-3001.SPACEDOMAIN.
+
+## 4. Licensing, Authors, Acknowledgements
+
+Must give credit to Udacity and Figure Eight for disaster data
