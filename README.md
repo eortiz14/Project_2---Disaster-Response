@@ -34,5 +34,5 @@ For deploy the flask app running make sure to be in the app directory use cd app
 open another Terminal Window and type env|grep WORK, the result of this command put on a new web browser window, type in the following: https://SPACEID-3001.SPACEDOMAIN.
 
 ## 4. Licensing, Authors, Acknowledgements
-
-Must give credit to Udacity and Figure Eight for disaster data
+This project was done by  Esteban Ortiz Gonzalez, an Industrial Engineer of the Pontificia Universidad Javeriana that currently work in Banco Davivienda.
+Special acknowledgments to Udacity and Figure Eight for disaster data.
