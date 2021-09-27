@@ -1,9 +1,11 @@
 # Project_2 Disaster Response
+
 ## Table of Contents
-  1.Requirements
-  2.Project Motivation
-  3.Instructions
-  4.Licensing, Authors, and Acknowledgements
+
+    1.Requirements
+    2.Project Motivation
+    3.Instructions
+    4.Licensing, Authors, and Acknowledgements
 
 ## 1.Requirements
 
