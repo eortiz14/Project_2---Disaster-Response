@@ -24,6 +24,8 @@ This project is a requirement of the Udacity Data Science Nanodegree. The main i
 
 ## 3. Instructions
 
-    * The data folder contains csv files, process_data.py and a Jupyter Notebook that contains the similar code that process_data.py
-    * The models folder contains train_classifier.py, which builds and trains the model that will categorize messages
-    * The app folder contains run.py which is used to deploy the flask app
+The repository have:
+
+* The data folder contains two csv files, process_data.py and a Jupyter Notebook that contains the similar code that process_data.py
+* The models folder contains train_classifier.py, which builds and trains the model that will categorize messages
+* The app folder contains run.py which is used to deploy the flask app
